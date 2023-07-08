@@ -1,4 +1,4 @@
-Given a number N. Count the number of digits in N which evenly divides N.
+/*Given a number N. Count the number of digits in N which evenly divides N.*/
 
 Solution:
 
